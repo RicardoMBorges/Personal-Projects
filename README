@@ -1,0 +1,7 @@
+
+Those files were created using KNIME according to "Database for Rapid Dereplication of Known Natural Products Using Data from MS and Fast NMR Experiments"
+@ https://pubs.acs.org/doi/abs/10.1021/acs.jnatprod.6b01093:
+  ChEBI_complete_structureFilters.dwar 	Structural Search DataWorrior 
+	HMDB_structureFilters.dwar 	Structural Search DataWorrior 
+	NUBBES_structureFilters.dwar 	Structural Search DataWorrior 
+	SeaWeedtest_StructureFilters.dwar 	Structural Search DataWorrior 
